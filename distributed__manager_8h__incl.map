@@ -1,0 +1,17 @@
+<map id="include/libpressio_ext/cpp/distributed_manager.h" name="include/libpressio_ext/cpp/distributed_manager.h">
+<area shape="rect" id="node5" href="$optional_8h.html" title="back ports of &lt;optional&gt; " alt="" coords="127,273,293,315"/>
+<area shape="rect" id="node11" href="$configurable_8h.html" title="interface for configurable types " alt="" coords="1117,117,1231,143"/>
+<area shape="rect" id="node13" href="$options_8h.html" title="C++ pressio_options and pressio_option interfaces. " alt="" coords="1133,199,1215,225"/>
+<area shape="rect" id="node18" href="$pressio__options_8h.html" title="A set of options for a compressor. " alt="" coords="2198,370,2334,397"/>
+<area shape="rect" id="node21" href="$pressio__option_8h.html" title="A single option value for a compressor. " alt="" coords="2136,281,2265,307"/>
+<area shape="rect" id="node23" href="$data_8h.html" title="C++ pressio_data interface. " alt="" coords="1564,273,1704,315"/>
+<area shape="rect" id="node39" href="$errorable_8h.html" title="interface for types which can report and have errors " alt="" coords="965,199,1058,225"/>
+<area shape="rect" id="node31" href="$string__view_8h.html" title="back ports of &lt;optional&gt; " alt="" coords="592,273,759,315"/>
+<area shape="rect" id="node33" href="$variant_8h.html" title="back ports of &lt;variant&gt; " alt="" coords="401,273,568,315"/>
+<area shape="rect" id="node35" href="$functional_8h.html" title="back ports of &lt;functional&gt; " alt="" coords="876,363,1043,404"/>
+<area shape="rect" id="node37" href="$language_8h_source.html" title="libpressio_ext/compat\l/language.h" alt="" coords="1212,273,1379,315"/>
+<area shape="rect" id="node19" href="$pressio__dtype_8h.html" title="Information on types used by libpressio. " alt="" coords="2053,452,2178,479"/>
+<area shape="rect" id="node27" href="$pressio__data_8h.html" title="an abstraction for a contagious memory region of a specified type " alt="" coords="2057,370,2174,397"/>
+<area shape="rect" id="node28" href="$dtype_8h.html" title="C++ interface to data types. " alt="" coords="1892,363,2032,404"/>
+<area shape="rect" id="node30" href="$utility_8h.html" title="back ports of &lt;utility&gt; " alt="" coords="1256,363,1423,404"/>
+</map>
